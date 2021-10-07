@@ -40,6 +40,7 @@ Go to settings of deployed application > reveal Config Vars > Edit Button
 ------------
 # Features
 
+* Can be used with Air Explorer and other webdav clients to **Upload & Download** files
 * No rclone.conf file needed
 * Added More security
 * MEGA support is available
