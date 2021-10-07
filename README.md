@@ -6,8 +6,12 @@ Mega.nz-Rclone-Index-Heroku
 
 ###### heroku-rclone-serve V3
 
-Serves mega.nz to webdav via heroku web.
-This creates a backdoor for mega storage and serves publicly. Use Air Explorer or any other 
+**Serves mega.nz to webdav via heroku web. This creates a backdoor for mega storage and serves publicly.**
+
+**Use Air Explorer or any other webdav client to download folders. Leave username and password fields blank.**
+
+**Or use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for downloading from webpage at best possible speed.**
+
 
 [HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku) without froking or github account.
 
@@ -19,8 +23,7 @@ ZEET RAPID DEPLOYMENT AVAILABLE 👇
 
 Use your Real mega Username/Email and real Password (without encryption) normally. 
 
-##### STAR & FORK MY REPO IF YOU LIKE IT OR FOLLOW ME ON [INSTAGRAM](https://www.instagram.com/t_h_e_anas).
-
+##### STAR & FORK MY REPO IF YOU LIKE IT
 
 ### Project completed but still under development
 
@@ -50,10 +53,8 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 * Multi-thread support upto 9x (stable)
 
 # Known Issues
-* In some devices ,speed drop was detected. 
-
-##### Please use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for best Downloading speed
-
+* In some devices, speed drop was detected. 
+* When download limit is reached, go to https://dashboard.heroku.com/apps > **your app** > more > restart all dynos. Wait for 20 seconds and then click on "Open app".
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
 [![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
@@ -71,11 +72,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 
 ![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
 
-### Tutorial of will be published soon
-
-### Donate me 😊
-
-###### Thanks To github.com/rclone/rclone
+###### Thanks To github.com/rclone/rclone & https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku
 
 ###### megaindex mega.nz index mega index meganzindex meganz index mega nz mega storage megamount mount gdrive drive mega link pause resume megalink megalinkindex Bhadoo Cloud indexing downloader quota meganzquota bypass mega.nzquata meganz uploader permenant-link index megaquota
 
