@@ -8,8 +8,9 @@ Mega.nz-Rclone-Index-Heroku
 
 
 ## Use Air Explorer or any other webdav client to download folders. 
-**Username : mega
-Password : mega**
+**Username : mega**
+
+**Password : mega**
 
 ## Or use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for downloading from webpage at best possible speed.
 
