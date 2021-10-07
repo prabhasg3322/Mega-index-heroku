@@ -1,4 +1,4 @@
-# Mega.nz as rclone WebDav using Heroku
+# Mega.nz as rclone WebDav using Heroku/Zeet
 ---------------------
 
 **Serves mega.nz to webdav via heroku web. This creates a backdoor for mega storage and serves publicly.**
