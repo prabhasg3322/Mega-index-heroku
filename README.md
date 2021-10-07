@@ -1,7 +1,7 @@
 # Mega.nz as rclone WebDav using Heroku/Zeet
 ---------------------
 
-## Serves mega.nz to **webdav** via heroku web. This creates a backdoor for mega storage and serves publicly.** 
+**Serves mega.nz to webdav via heroku web. This creates a backdoor for mega storage and serves publicly.** 
 
 ## To use mega.nz as HTTP Index go to https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku
 
