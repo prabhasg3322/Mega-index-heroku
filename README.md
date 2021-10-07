@@ -10,12 +10,12 @@ Mega.nz-Rclone-Index-Heroku
 Serves mega.nz to http via heroku web.
 This creates a backdoor for mega storage and serves publicly.
 
-[HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) without froking or github account.
+[HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku) without froking or github account.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
 
 ZEET RAPID DEPLOYMENT AVAILABLE 👇
-[![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
+[![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
 
 Use your Real mega Username/Email and real Password (without encryption) normally. 
 
@@ -24,7 +24,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 
 ### Project completed but still under development
 
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/deployedV.PNG)
+![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/deployedV.PNG)
 
 ------------
 
@@ -34,7 +34,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 
 ### Change Config Vars in settings of deployed application change email and password for swiching accounts
 
-# ![Demo-Deploying](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)
+# ![Demo-Deploying](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)
 
 ------------
 # Features
@@ -55,21 +55,21 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 ##### Please use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for best Downloading speed
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
-[![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
+[![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
 
 ---
 # Supported Storage
 -------------------
 ##### MEGA.NZ only
 
-### Create an [issue](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku-BETA/issues/new) if you have one
+### Create an [issue](https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku-BETA/issues/new) if you have one
 
 ##### Please Try to re-deploy if any error occurred, this is common because some of the files are hosted on my free server at cloudflare
 
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/samplemega.PNG)
+![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/samplemega.PNG)
 
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
+![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
 
 ### Tutorial of will be published soon
 
