@@ -1,6 +1,5 @@
-# HEROKU MEGA INDEX
+# Mega.nz as rclone WebDav using Heroku
 ---------------------
-Mega.nz-Rclone-Index-Heroku
 
 **Serves mega.nz to webdav via heroku web. This creates a backdoor for mega storage and serves publicly.**
 
@@ -12,12 +11,10 @@ Mega.nz-Rclone-Index-Heroku
 
 **Password : Your Mega.nz password**
 
-## Or use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for downloading from webpage at best possible speed.
 
+HEROKU RAPID DEPLOYMENT AVAILABLE 👇 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ZEET RAPID DEPLOYMENT AVAILABLE 👇
 
-HEROKU RAPID DEPLOYMENT AVAILABLE 👇 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ZEET RAPID DEPLOYMENT AVAILABLE 👇
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
 
 Use your **Real** Mega.nz Username/Email and real Password (without encryption) normally. 
 
@@ -47,7 +44,6 @@ Use your **Real** Mega.nz Username/Email and real Password (without encryption) 
 * No internet speed capping, Enjoy Maximum download speed
 * 24x7 permanent link
 * No download limit or quota limit
-* pause download available (Use download Managers like ADM ,XDM, Aria2 for more stability)
 * Multi-thread support upto 9x (stable)
 
 # Known Issues
