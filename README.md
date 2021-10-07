@@ -2,15 +2,13 @@
 ---------------------
 Mega.nz-Rclone-Index-Heroku
 
-![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
-
-###### heroku-rclone-serve V3
-
 **Serves mega.nz to webdav via heroku web. This creates a backdoor for mega storage and serves publicly.**
 
-**Use Air Explorer or any other webdav client to download folders. Leave username and password fields blank.**
+![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
 
-**Or use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for downloading from webpage at best possible speed.**
+
+## Use Air Explorer or any other webdav client to download folders. Leave username and password fields blank.
+## Or use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for downloading from webpage at best possible speed.
 
 
 [HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku) without froking or github account.
