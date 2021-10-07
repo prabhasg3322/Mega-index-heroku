@@ -7,7 +7,10 @@ Mega.nz-Rclone-Index-Heroku
 ![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
 
 
-## Use Air Explorer or any other webdav client to download folders. Leave username and password fields blank.
+## Use Air Explorer or any other webdav client to download folders. 
+**Username : mega
+Password : mega**
+
 ## Or use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for downloading from webpage at best possible speed.
 
 
