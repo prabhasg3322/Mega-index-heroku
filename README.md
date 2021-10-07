@@ -11,7 +11,7 @@ Mega.nz-Rclone-Index-Heroku
 ## Or use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for downloading from webpage at best possible speed.
 
 
-[HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku) without froking or github account.
+[HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku) without forking or github account.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
 
