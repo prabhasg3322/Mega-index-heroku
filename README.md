@@ -14,6 +14,15 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku) &nbsp; &nbsp; [![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
 
 ------------
+## Config Variables in Heroku
+
+Use your **Real** Mega.nz Username/Email and real Password (without encryption) normally. 
+# ![Demo-Deploying](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)
+------------
+### To change Config Vars in settings of deployed application change email and password for swiching accounts
+###### Go to settings of deployed application > reveal Config Vars > Edit Button
+
+------------
 
 # How to use
 ## Use Air Explorer or any other webdav client to download folders. 
@@ -23,7 +32,7 @@
 **Password : Your Mega.nz password**
 
 
-Use your **Real** Mega.nz Username/Email and real Password (without encryption) normally. 
+
 
 ##### STAR & FORK MY REPO IF YOU LIKE IT
 
@@ -31,15 +40,7 @@ Use your **Real** Mega.nz Username/Email and real Password (without encryption) 
 
 ![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/deployedV.PNG)
 
-------------
 
-## Config Variables in heroku
-
-###### Go to settings of deployed application > reveal Config Vars > Edit Button
-
-### Change Config Vars in settings of deployed application change email and password for swiching accounts
-
-# ![Demo-Deploying](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)
 
 ------------
 # Features
