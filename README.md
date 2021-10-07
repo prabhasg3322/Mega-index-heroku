@@ -1,13 +1,11 @@
 # Mega.nz as rclone WebDav using Heroku/Zeet
 ---------------------
 
-**Serves mega.nz to webdav via heroku web. This creates a backdoor for mega storage and serves publicly.**
+**Serves mega.nz to webdav via heroku web. This creates a backdoor for mega storage and serves publicly.** 
+
+## To use mega.nz as HTTP Index go to https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku
 
 ![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
-
-
-
-
 
 # Deployment Options
 
@@ -20,7 +18,7 @@ Use your **Real** Mega.nz Username/Email and real Password (without encryption) 
 # ![Demo-Deploying](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)
 ------------
 ### To change Config Vars in settings of deployed application change email and password for swiching accounts
-###### Go to settings of deployed application > reveal Config Vars > Edit Button
+Go to settings of deployed application > reveal Config Vars > Edit Button
 
 ------------
 
@@ -31,16 +29,13 @@ Use your **Real** Mega.nz Username/Email and real Password (without encryption) 
 
 **Password : Your Mega.nz password**
 
-
-
+------------
 
 ##### STAR & FORK MY REPO IF YOU LIKE IT
 
 ### Project completed but still under development
 
 ![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/deployedV.PNG)
-
-
 
 ------------
 # Features
@@ -58,14 +53,10 @@ Use your **Real** Mega.nz Username/Email and real Password (without encryption) 
 * In some devices, speed drop was detected. 
 * When download limit is reached, go to https://dashboard.heroku.com/apps > **your app** > more > restart all dynos. Wait for 20 seconds and then click on "Open app".
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
-[![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku)
-
 ---
 # Supported Storage
 ##### MEGA.NZ only
 -------------------
-
 
 ### Create an [issue](https://github.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku-BETA/issues/new) if you have one
 
@@ -75,7 +66,7 @@ Use your **Real** Mega.nz Username/Email and real Password (without encryption) 
 
 ![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
 
-###### Thanks To github.com/rclone/rclone & https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku
+###### Thanks To https://github.com/rclone/rclone & https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku
 
 ###### megaindex mega.nz index mega index meganzindex meganz index mega nz mega storage megamount mount gdrive drive mega link pause resume megalink megalinkindex Bhadoo Cloud indexing downloader quota meganzquota bypass mega.nzquata meganz uploader permenant-link index megaquota
 
