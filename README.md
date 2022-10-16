@@ -3,7 +3,7 @@
 
 **Serves mega.nz to webdav via heroku web. This creates a backdoor for mega storage and serves publicly.** 
 
-## To use mega.nz as HTTP Index go to https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku
+## To use mega.nz as HTTP Index go to https://github.com/prabhasg3322/Mega.nz-Rclone-Index-Heroku
 
 ![Demo](https://raw.githubusercontent.com/bluehypergiant/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
 
